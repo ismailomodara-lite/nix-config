@@ -100,7 +100,7 @@
                 # Configure MailerLite modules (optional)
                 mailerlite = {
                   ssh = {
-                    username = username;
+                    username = "ismail_omodara";
                     use1PasswordAgent = true;
                     # extraConfig = ''
                     #   Host *
